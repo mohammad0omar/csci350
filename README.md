@@ -1,5 +1,11 @@
 # universityProjectCSCI
-html and css only website for a university project
+a simple project using only html and css with a beautiful ui
 
-#screenshots
+# screenshots
+![picture](home.png)
 
+![picture](syllab.png)
+
+![picture](enroll.png)
+
+![picture](online.png)
